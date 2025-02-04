@@ -1,0 +1,29 @@
+{
+    "phpmd.enabled": false,
+    "phpcs.standard": "Drupal",
+    "editor.tabSize": 2,
+    "html.format.enable": false,
+    "twig-language-2.space": false,
+    "twig-language-2.ternaryLine": false,
+    "window.title": "${dirty} FILE: ${activeEditorMedium} - ⭐ PROJECT: ${rootName} ⭐ BRANCH: ${activeRepositoryBranchName}"
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#425af0",
+        "titleBar.activeForeground": "#fff",
+        "titleBar.inactiveBackground": "#425af0",
+        "titleBar.inactiveForeground": "#fff",
+        "activityBar.background": "#425af0",
+        "activityBar.foreground": "#fff",
+        "tree.indentGuidesStroke": "#ebebeb",  // Color of the indent guides in the explorer view
+        "list.hoverBackground": "#4C566A50",  // Background color when hovering over items in the sidebar
+        "list.activeSelectionBackground": "#88C0D050",  // Background color of selected items in the sidebar
+        // "list.activeSelectionForeground": "#ECEFF4",  // Foreground color of selected items in the sidebar
+        // "list.inactiveSelectionBackground": "#434C5E50",  // Background color of inactive selected items in the sidebar
+        // "list.inactiveSelectionForeground": "#D8DEE9",  // Foreground color of inactive selected items in the sidebar
+        // "list.hoverForeground": "#ECEFF4",  // Foreground color when hovering over items in the sidebar
+        // "list.focusBackground": "#3B4252",  // Background color of focused items in the sidebar
+        // "list.focusForeground": "#ECEFF4"  // Foreground color of focused items in the sidebar
+
+
+    }
+
+}
