@@ -5,7 +5,7 @@
     "html.format.enable": false,
     "twig-language-2.space": false,
     "twig-language-2.ternaryLine": false,
-    "window.title": "${dirty} FILE: ${activeEditorMedium} - ⭐ PROJECT: ${rootName} ⭐ BRANCH: ${activeRepositoryBranchName}"
+    "window.title": "${dirty} FILE: ${activeEditorMedium} - ⭐ PROJECT: ${rootName} ⭐ BRANCH: ${activeRepositoryBranchName}",
     "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#425af0",
         "titleBar.activeForeground": "#fff",
