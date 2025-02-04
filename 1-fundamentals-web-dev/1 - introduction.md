@@ -9,4 +9,6 @@ This section addresses:
 * Responsive design concepts
 * Automated testing, including PHPUnit
 
+![alt text](<CleanShot 2025-02-04 at 16.09.32.jpg>)
+
 
