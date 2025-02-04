@@ -45,3 +45,10 @@ Sections
   - Twig syntax - data sanitisation methods
   - YAML syntax and why we use
 
+
+## Other projects and resources
+
+[Drupal.org](https://www.drupal.org/docs) - the source of all Drupal knowledge
+[Drupalize.me](https://drupalize.me/) - a great paid resource for learning Drupal, it has study guides plus videos for several topics
+[Prepare me for Drupal repo](https://github.com/panshulK/prepare-me-for-drupal/blob/main/README.md) - with exam-style questions, for Drupal 8
+
