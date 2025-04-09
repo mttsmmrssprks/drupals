@@ -4,7 +4,7 @@ This is documentation for our Drupal 10 website, and a study guide for passing a
 
 ## Custom documentation
 
-
+![Drupal logo](image.png)
 
 ## Sources for documentation
 
